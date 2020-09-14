@@ -7,4 +7,4 @@
 <li> Paolo Ripamonti, sentiment analysis model structure: https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis 
 <li> Some other isualisation ideas taken from Tanul Singh: https://www.kaggle.com/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model 
 <li> Data about doorbell industry: https://www.technavio.com/report/smart-doorbell-market-industry-analysis 
-<\ul>
+</ul>
