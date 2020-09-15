@@ -6,7 +6,8 @@ Global smart doorbell market has potential to grow $1.2Billion during 2020-2024.
 <ul>
 <li><b>amazon_reviews</b> - the data analysis and sentiment prediction models in jupyter notebooks format
 <li><b>ring_reviews</b> - contains the Scapy web crawler and raw data. 
-<li><b>glove<b> - necessary files for training the GloVe model to create vector embeddings for the scraped and train data
+<li><b>glove</b> - necessary files for training the GloVe model to create vector embeddings for the scraped and train data
+ <li> Presentation slides in PDF and Keynote
  </ul>
 ## Acknowledgements:
 <ul>
