@@ -1,6 +1,11 @@
 # Phase_2_MSA2020
+This repository contains a business case of Ring doorbell reviews and a sentiment prediction model for Kaggle made as a project for  Phase 2 MSA 2020. 
+
 ## Description:
 Global smart doorbell market has potential to grow $1.2Billion during 2020-2024. With estimated year-over-year growth of 20.5%. Ring wants to understand which features have to be improved to gain a larger customer segment. Since Ring's parent company is Amazon, the reviews of Ring doorbell on Amazon website were scraped and analysed to understaind the main conserns of the customers.
+
+## Model:
+LSTM model with embedding matrix trained on Word2Vec or GloVe model.
 
 ## File Structure:
 <ul>
@@ -9,6 +14,7 @@ Global smart doorbell market has potential to grow $1.2Billion during 2020-2024.
 <li><b>glove</b> - necessary files for training the GloVe model to create vector embeddings for the scraped and train data
  <li> Presentation slides in PDF and Keynote
  </ul>
+ 
 ## Acknowledgements:
 <ul>
 <li> Prateek Joshi, implementation of Word2Vec model: https://www.analyticsvidhya.com/blog/2019/07/how-to-build-recommendation-system-word2vec-python/
